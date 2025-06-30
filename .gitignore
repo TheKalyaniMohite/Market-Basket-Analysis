@@ -1,0 +1,12 @@
+# Ignore Python environment and caches
+venv/
+
+# Ignore the raw dataset folder
+Dataset/
+
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
